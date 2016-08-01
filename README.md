@@ -1,6 +1,9 @@
 # timebotpy
 
-This is a Artificial Intelligence sofware that build with python 2.7.x and Google Cloud Platform.
+This is a Artificial Intelligence sofware.
 
-Database and File System: Google Datastore, Google Cloud Storage
+## Language and Environment Requirements
+This software is written in python 2.7.x and Google Cloud Platform. Database use Google Datastore and File System use Google Cloud Storage.
 
+## Missions
+timebotpy is a tool that helps human, rather than act like another consciousness.
