@@ -11,6 +11,5 @@ and extended classes work as a group to accomplish a goal.
 
 ## Philosophies
 The whole framework designed in Tree Structure. Timebotpy and it's extends classes works with each other in 
-Fractal manner.
-
+Fractal manner, which means they share same interface, and call each other with the interface.
 
